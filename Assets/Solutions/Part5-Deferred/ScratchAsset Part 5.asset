@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35d482727909948ef93e38d77faf3195, type: 3}
+  m_Name: ScratchAsset Part 5
+  m_EditorClassIdentifier: 
+  copyDepthMaterial: {fileID: 2100000, guid: 5e16b99e930964dc3977105a4ae42599, type: 2}
+  deferredMaterial: {fileID: 2100000, guid: 6480951fe1ab240ae8d796d1c2c56db9, type: 2}
